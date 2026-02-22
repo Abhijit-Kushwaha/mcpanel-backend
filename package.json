@@ -1,0 +1,15 @@
+{
+  "name": "mcpanel-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend server for MCPanel Minecraft server orchestration",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.0.0"
+  }
+}
